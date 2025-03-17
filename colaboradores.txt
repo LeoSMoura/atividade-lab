@@ -1,2 +1,4 @@
 -Nome: Vinícius Bolsoni
 -Descrição: Estudadnte de Sistemas de informação
+
+- Desenvolvendo o aprendizado sobre as linguagens de JavaScript, CSS e HTML
